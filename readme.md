@@ -12,10 +12,10 @@ Requirements
 To run this program, you need to have the following installed:
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/114035408/235405259-18edf1ed-ffe4-4fe7-a3c3-628014028868.jpg" alt="Image 1"></td>
-    <td><img src="https://user-images.githubusercontent.com/114035408/235405264-2224fc4f-4819-4d71-b1a7-c4402175337a.jpg" alt="Image 2"></td>
-    <td><img src="https://user-images.githubusercontent.com/114035408/235405270-6a914251-20c8-4626-868d-01c6f07e0e57.jpg" alt="Image 3"></td>
-    <td><img src="https://user-images.githubusercontent.com/114035408/235405273-a365a7b1-bdba-422d-9590-1b93f18375bd.jpg" alt="Image 3"></td>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235405259-18edf1ed-ffe4-4fe7-a3c3-628014028868.jpg" alt="Image 1" width="1024" height="1024"></td>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235405264-2224fc4f-4819-4d71-b1a7-c4402175337a.jpg" alt="Image 2" width="1024" height="1024"></td>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235405270-6a914251-20c8-4626-868d-01c6f07e0e57.jpg" alt="Image 3" width="1024" height="1024"></td>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235405273-a365a7b1-bdba-422d-9590-1b93f18375bd.jpg" alt="Image 3" width="1024" height="1024"></td>
   </tr>
 </table>
 

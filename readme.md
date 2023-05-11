@@ -1,7 +1,6 @@
 **Adding Glasses and Mustache to Rotated Faces with Mediapipe**
 
 This Python program uses the Mediapipe library to detect facial landmarks and add glasses and mustache to the face, even when it's rotated left or right. The program works by:
-
 Capturing a video stream from the default camera or a video file.
 Using the Mediapipe FaceMesh solution to detect 468 facial landmarks on each frame of the video.
 Calculating the angle of rotation of the face based on the position of the landmarks around the eyes and nose.

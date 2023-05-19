@@ -22,6 +22,5 @@ Python 3.6 or later
 OpenCV 4.5 or later
 Mediapipe 0.8 or later
 
-
 Usage:
 To run this program, open a teminal and run apply_filter.py
